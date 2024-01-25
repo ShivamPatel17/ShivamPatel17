@@ -1,6 +1,7 @@
 ### Hello friend 👋
 
 🔭 I’m currently working on creating an AI to beat my friends (and I) in Settlers of Catan: Cities and Knights + Seafarers
+
 🌱 I’m taking this [Fundamentals of Database Engineering Udemy course](https://www.udemy.com/course/database-engines-crash-course)
 
 <!--
