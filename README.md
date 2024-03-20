@@ -4,7 +4,11 @@
 
 🌱 I’m taking this [Fundamentals of Database Engineering Udemy course](https://www.udemy.com/course/database-engines-crash-course)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamPatel17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
+https://github.com/ryo-ma/github-profile-trophy
+- repo to add dynamically generated trophies
+
 **ShivamPatel17/ShivamPatel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
