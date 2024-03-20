@@ -4,7 +4,7 @@
 
 🌱 I’m taking this [Fundamentals of Database Engineering Udemy course](https://www.udemy.com/course/database-engines-crash-course)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamPatel17&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ShivamPatel17&theme=onedark&rank=SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 https://github.com/ryo-ma/github-profile-trophy
 - repo to add dynamically generated trophies
