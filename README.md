@@ -1,6 +1,6 @@
 ### Hello friend 👋
 
-🔭 I’m currently working on creating an AI to beat my friends (and I) in Settlers of Catan: Cities and Knights + Seafarers
+🔭 I’m currently setting up a home server to run [immich](https://immich.app/) and get off cloud services for my photos and videos
 
 🌱 I’m taking this [Fundamentals of Database Engineering Udemy course](https://www.udemy.com/course/database-engines-crash-course)
 
