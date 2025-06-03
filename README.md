@@ -1,4 +1,4 @@
-### Hello friend 👋
+### Hello 👋
 
 🔭 I’m currently setting up a home server to run [immich](https://immich.app/) and get off cloud services for my photos and videos
 
